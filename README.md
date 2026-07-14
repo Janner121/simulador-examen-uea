@@ -9,9 +9,11 @@ src/
 ├── App.jsx                     # Orquesta las 3 pantallas (welcome | quiz | results)
 ├── main.jsx                    # Punto de entrada
 ├── data/
-│   └── preguntas.json          # Banco de preguntas (mock con 5 ejemplos)
+│   └── preguntas.json          # Banco completo: 100 preguntas parseadas de preguntas.md
 ├── hooks/
 │   └── useQuizEngine.js        # Estado del examen: pregunta actual, temporizador, puntaje, respuestas
+├── utils/
+│   └── shuffle.js              # Fisher-Yates: baraja el orden de las preguntas en cada intento
 └── components/
     ├── WelcomeScreen.jsx       # Pantalla 1: nombre + botón iniciar
     ├── QuizScreen.jsx          # Pantalla 2: pregunta, opciones, feedback
@@ -21,9 +23,9 @@ src/
     └── FeedbackCard.jsx        # Tarjeta "¡Correcto!" / "Incorrecto" + justificación
 ```
 
-## Poblar el banco de preguntas
+## Banco de preguntas
 
-`src/data/preguntas.json` es un array de objetos con esta forma:
+`src/data/preguntas.json` contiene las 100 preguntas de `preguntas.md`, parseadas automáticamente. Cada objeto tiene esta forma:
 
 ```json
 {
@@ -36,13 +38,10 @@ src/
 }
 ```
 
-Reemplaza el contenido del array con las 100 preguntas de `preguntas.md`. Notas importantes:
-
 - `opciones` es un array de 4 strings (sin el prefijo "A)", "B)", etc. — las letras se generan automáticamente en la UI).
-- `respuestaCorrecta` debe coincidir **exactamente** (carácter por carácter) con uno de los valores de `opciones`, ya que así se determina si la respuesta es correcta.
-- El orden del array determina el orden de las preguntas en el examen.
-
-> Si prefieres, puedo escribir un script que parsee automáticamente `preguntas.md` a este formato JSON — solo dímelo.
+- `respuestaCorrecta` debe coincidir **exactamente** (carácter por carácter) con uno de los valores de `opciones`.
+- El **orden de presentación** en el examen se baraja aleatoriamente en cada intento (`App.jsx` llama a `shuffle()` al montar y en "Volver a Intentar") — el orden del JSON en sí no importa.
+- Si vuelves a editar `preguntas.md`, puedo re-generar el JSON con el mismo script parser.
 
 ## Desarrollo
 

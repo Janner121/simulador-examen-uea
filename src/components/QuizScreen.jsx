@@ -44,7 +44,7 @@ export default function QuizScreen({ nombre, quiz, totalPreguntas, onSiguiente }
           <span className="inline-block rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold text-emerald-700">
             {currentQuestion.categoria}
           </span>
-          <h2 className="text-lg font-semibold text-gray-900 sm:text-xl">
+          <h2 className="whitespace-pre-line text-lg font-semibold text-gray-900 sm:text-xl">
             {currentQuestion.pregunta}
           </h2>
 

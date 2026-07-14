@@ -3,40 +3,1300 @@
     "id": 1,
     "categoria": "Razonamiento Lógico",
     "pregunta": "¿Qué número sigue en la serie: 2, 4, 8, 16, __?",
-    "opciones": ["37", "64", "32", "34"],
+    "opciones": [
+      "37",
+      "64",
+      "32",
+      "34"
+    ],
     "respuestaCorrecta": "32",
     "justificacion": "La serie se forma multiplicando cada término anterior por 2."
   },
   {
     "id": 2,
     "categoria": "Razonamiento Lógico",
-    "pregunta": "¿Qué número sigue en la serie: 5, 10, 20, 40, __?",
-    "opciones": ["80", "82", "85", "160"],
-    "respuestaCorrecta": "80",
-    "justificacion": "Cada término se obtiene multiplicando el anterior por 2."
+    "pregunta": "¿Qué número sigue en la serie: 2, 4, 8, 16, __?",
+    "opciones": [
+      "34",
+      "64",
+      "32",
+      "42"
+    ],
+    "respuestaCorrecta": "32",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
   },
   {
     "id": 3,
-    "categoria": "Aptitud Verbal",
-    "pregunta": "Selecciona el sinónimo de la palabra 'efímero'.",
-    "opciones": ["Duradero", "Pasajero", "Eterno", "Constante"],
-    "respuestaCorrecta": "Pasajero",
-    "justificacion": "'Efímero' significa que dura poco tiempo, por lo que su sinónimo es 'pasajero'."
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 2, 4, 8, 16, __?",
+    "opciones": [
+      "34",
+      "36",
+      "64",
+      "32"
+    ],
+    "respuestaCorrecta": "32",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
   },
   {
     "id": 4,
-    "categoria": "Razonamiento Numérico",
-    "pregunta": "Si un artículo cuesta $80 y tiene un descuento del 25%, ¿cuál es el precio final?",
-    "opciones": ["$60", "$65", "$70", "$55"],
-    "respuestaCorrecta": "$60",
-    "justificacion": "El 25% de 80 es 20, entonces 80 - 20 = 60."
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 5, 10, 20, 40, __?",
+    "opciones": [
+      "80",
+      "82",
+      "85",
+      "160"
+    ],
+    "respuestaCorrecta": "80",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
   },
   {
     "id": 5,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 2, 4, 8, 16, __?",
+    "opciones": [
+      "39",
+      "32",
+      "34",
+      "64"
+    ],
+    "respuestaCorrecta": "32",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
+  },
+  {
+    "id": 6,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 3, 9, 27, 81, __?",
+    "opciones": [
+      "246",
+      "486",
+      "245",
+      "243"
+    ],
+    "respuestaCorrecta": "243",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 7,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 4, 12, 36, 108, __?",
+    "opciones": [
+      "327",
+      "328",
+      "648",
+      "324"
+    ],
+    "respuestaCorrecta": "324",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 8,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 2, 6, 18, 54, __?",
+    "opciones": [
+      "165",
+      "164",
+      "324",
+      "162"
+    ],
+    "respuestaCorrecta": "162",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 9,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 4, 8, 16, 32, __?",
+    "opciones": [
+      "66",
+      "68",
+      "128",
+      "64"
+    ],
+    "respuestaCorrecta": "64",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
+  },
+  {
+    "id": 10,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 4, 8, 16, 32, __?",
+    "opciones": [
+      "68",
+      "128",
+      "64",
+      "66"
+    ],
+    "respuestaCorrecta": "64",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
+  },
+  {
+    "id": 11,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 4, 12, 36, 108, __?",
+    "opciones": [
+      "327",
+      "328",
+      "648",
+      "324"
+    ],
+    "respuestaCorrecta": "324",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 12,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 4, 8, 16, 32, __?",
+    "opciones": [
+      "66",
+      "64",
+      "128",
+      "68"
+    ],
+    "respuestaCorrecta": "64",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
+  },
+  {
+    "id": 13,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 3, 6, 12, 24, __?",
+    "opciones": [
+      "48",
+      "51",
+      "96",
+      "50"
+    ],
+    "respuestaCorrecta": "48",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
+  },
+  {
+    "id": 14,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 4, 8, 16, 32, __?",
+    "opciones": [
+      "66",
+      "128",
+      "64",
+      "68"
+    ],
+    "respuestaCorrecta": "64",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
+  },
+  {
+    "id": 15,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 2, 6, 18, 54, __?",
+    "opciones": [
+      "324",
+      "162",
+      "164",
+      "165"
+    ],
+    "respuestaCorrecta": "162",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 16,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 3, 9, 27, 81, __?",
+    "opciones": [
+      "247",
+      "246",
+      "243",
+      "486"
+    ],
+    "respuestaCorrecta": "243",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 17,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 3, 9, 27, 81, __?",
+    "opciones": [
+      "247",
+      "243",
+      "486",
+      "246"
+    ],
+    "respuestaCorrecta": "243",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 18,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 5, 15, 45, 135, __?",
+    "opciones": [
+      "405",
+      "410",
+      "408",
+      "810"
+    ],
+    "respuestaCorrecta": "405",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 19,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 2, 4, 8, 16, __?",
+    "opciones": [
+      "32",
+      "64",
+      "34",
+      "35"
+    ],
+    "respuestaCorrecta": "32",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 2."
+  },
+  {
+    "id": 20,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Qué número sigue en la serie: 2, 6, 18, 54, __?",
+    "opciones": [
+      "162",
+      "164",
+      "324",
+      "165"
+    ],
+    "respuestaCorrecta": "162",
+    "justificacion": "La serie se forma multiplicando cada término anterior por 3."
+  },
+  {
+    "id": 21,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 13, 18, 23, 28, __?",
+    "opciones": [
+      "33",
+      "39",
+      "35",
+      "32"
+    ],
+    "respuestaCorrecta": "33",
+    "justificacion": "La serie se forma sumando 5 al término anterior de forma constante."
+  },
+  {
+    "id": 22,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 15, 22, 29, 36, __?",
+    "opciones": [
+      "51",
+      "42",
+      "45",
+      "43"
+    ],
+    "respuestaCorrecta": "43",
+    "justificacion": "La serie se forma sumando 7 al término anterior de forma constante."
+  },
+  {
+    "id": 23,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 6, 11, 16, 21, __?",
+    "opciones": [
+      "26",
+      "25",
+      "32",
+      "28"
+    ],
+    "respuestaCorrecta": "26",
+    "justificacion": "La serie se forma sumando 5 al término anterior de forma constante."
+  },
+  {
+    "id": 24,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 5, 13, 21, 29, __?",
+    "opciones": [
+      "37",
+      "36",
+      "39",
+      "46"
+    ],
+    "respuestaCorrecta": "37",
+    "justificacion": "La serie se forma sumando 8 al término anterior de forma constante."
+  },
+  {
+    "id": 25,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 13, 16, 19, 22, __?",
+    "opciones": [
+      "25",
+      "24",
+      "29",
+      "27"
+    ],
+    "respuestaCorrecta": "25",
+    "justificacion": "La serie se forma sumando 3 al término anterior de forma constante."
+  },
+  {
+    "id": 26,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 7, 12, 17, 22, __?",
+    "opciones": [
+      "29",
+      "33",
+      "27",
+      "26"
+    ],
+    "respuestaCorrecta": "27",
+    "justificacion": "La serie se forma sumando 5 al término anterior de forma constante."
+  },
+  {
+    "id": 27,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 14, 19, 24, 29, __?",
+    "opciones": [
+      "33",
+      "34",
+      "40",
+      "36"
+    ],
+    "respuestaCorrecta": "34",
+    "justificacion": "La serie se forma sumando 5 al término anterior de forma constante."
+  },
+  {
+    "id": 28,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 10, 15, 20, 25, __?",
+    "opciones": [
+      "30",
+      "29",
+      "32",
+      "36"
+    ],
+    "respuestaCorrecta": "30",
+    "justificacion": "La serie se forma sumando 5 al término anterior de forma constante."
+  },
+  {
+    "id": 29,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 14, 17, 20, 23, __?",
+    "opciones": [
+      "30",
+      "26",
+      "28",
+      "25"
+    ],
+    "respuestaCorrecta": "26",
+    "justificacion": "La serie se forma sumando 3 al término anterior de forma constante."
+  },
+  {
+    "id": 30,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 6, 13, 20, 27, __?",
+    "opciones": [
+      "36",
+      "42",
+      "33",
+      "34"
+    ],
+    "respuestaCorrecta": "34",
+    "justificacion": "La serie se forma sumando 7 al término anterior de forma constante."
+  },
+  {
+    "id": 31,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 13, 17, 21, 25, __?",
+    "opciones": [
+      "34",
+      "28",
+      "31",
+      "29"
+    ],
+    "respuestaCorrecta": "29",
+    "justificacion": "La serie se forma sumando 4 al término anterior de forma constante."
+  },
+  {
+    "id": 32,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 8, 15, 22, 29, __?",
+    "opciones": [
+      "35",
+      "44",
+      "38",
+      "36"
+    ],
+    "respuestaCorrecta": "36",
+    "justificacion": "La serie se forma sumando 7 al término anterior de forma constante."
+  },
+  {
+    "id": 33,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 11, 19, 27, 35, __?",
+    "opciones": [
+      "42",
+      "45",
+      "43",
+      "52"
+    ],
+    "respuestaCorrecta": "43",
+    "justificacion": "La serie se forma sumando 8 al término anterior de forma constante."
+  },
+  {
+    "id": 34,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 6, 10, 14, 18, __?",
+    "opciones": [
+      "21",
+      "22",
+      "24",
+      "27"
+    ],
+    "respuestaCorrecta": "22",
+    "justificacion": "La serie se forma sumando 4 al término anterior de forma constante."
+  },
+  {
+    "id": 35,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 5, 12, 19, 26, __?",
+    "opciones": [
+      "41",
+      "32",
+      "35",
+      "33"
+    ],
+    "respuestaCorrecta": "33",
+    "justificacion": "La serie se forma sumando 7 al término anterior de forma constante."
+  },
+  {
+    "id": 36,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 5, 8, 11, 14, __?",
+    "opciones": [
+      "17",
+      "19",
+      "21",
+      "16"
+    ],
+    "respuestaCorrecta": "17",
+    "justificacion": "La serie se forma sumando 3 al término anterior de forma constante."
+  },
+  {
+    "id": 37,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 5, 10, 15, 20, __?",
+    "opciones": [
+      "25",
+      "31",
+      "27",
+      "24"
+    ],
+    "respuestaCorrecta": "25",
+    "justificacion": "La serie se forma sumando 5 al término anterior de forma constante."
+  },
+  {
+    "id": 38,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 9, 17, 25, 33, __?",
+    "opciones": [
+      "41",
+      "50",
+      "40",
+      "43"
+    ],
+    "respuestaCorrecta": "41",
+    "justificacion": "La serie se forma sumando 8 al término anterior de forma constante."
+  },
+  {
+    "id": 39,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 14, 21, 28, 35, __?",
+    "opciones": [
+      "44",
+      "42",
+      "41",
+      "50"
+    ],
+    "respuestaCorrecta": "42",
+    "justificacion": "La serie se forma sumando 7 al término anterior de forma constante."
+  },
+  {
+    "id": 40,
+    "categoria": "Razonamiento Lógico",
+    "pregunta": "¿Cuál es el siguiente número en la serie: 11, 15, 19, 23, __?",
+    "opciones": [
+      "27",
+      "26",
+      "29",
+      "32"
+    ],
+    "respuestaCorrecta": "27",
+    "justificacion": "La serie se forma sumando 4 al término anterior de forma constante."
+  },
+  {
+    "id": 41,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: EFÍMERO",
+    "opciones": [
+      "Eterno",
+      "Pasajero",
+      "Pesado",
+      "Claro"
+    ],
+    "respuestaCorrecta": "Pasajero",
+    "justificacion": "'Efímero' dura por un tiempo muy corto."
+  },
+  {
+    "id": 42,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: PRAGMÁTICO",
+    "opciones": [
+      "Iluso",
+      "Teórico",
+      "Rápido",
+      "Práctico"
+    ],
+    "respuestaCorrecta": "Práctico",
+    "justificacion": "'Pragmático' se refiere a lo útil y orientado a la acción."
+  },
+  {
+    "id": 43,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: METICULOSO",
+    "opciones": [
+      "Fuerte",
+      "Lento",
+      "Detallista",
+      "Descuidado"
+    ],
+    "respuestaCorrecta": "Detallista",
+    "justificacion": "'Meticuloso' presta muchísima atención a todos los detalles."
+  },
+  {
+    "id": 44,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: OBSOLETO",
+    "opciones": [
+      "Útil",
+      "Anticuado",
+      "Moderno",
+      "Nuevo"
+    ],
+    "respuestaCorrecta": "Anticuado",
+    "justificacion": "'Obsoleto' ya no se usa por ser muy antiguo o desfasado."
+  },
+  {
+    "id": 45,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: INNATO",
+    "opciones": [
+      "Raro",
+      "Natural",
+      "Adquirido",
+      "Falso"
+    ],
+    "respuestaCorrecta": "Natural",
+    "justificacion": "'Innato' no es aprendido o adquirido, sino que se nace con ello."
+  },
+  {
+    "id": 46,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: ERUDITO",
+    "opciones": [
+      "Fuerte",
+      "Ignorante",
+      "Sabio",
+      "Joven"
+    ],
+    "respuestaCorrecta": "Sabio",
+    "justificacion": "'Erudito' tiene amplios conocimientos profundos sobre una materia."
+  },
+  {
+    "id": 47,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: NOSTALGIA",
+    "opciones": [
+      "Añoranza",
+      "Alegría",
+      "Miedo",
+      "Ira"
+    ],
+    "respuestaCorrecta": "Añoranza",
+    "justificacion": "'Nostalgia' es un sentimiento de pena y recuerdo por la lejanía o pérdida."
+  },
+  {
+    "id": 48,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: LOCUAZ",
+    "opciones": [
+      "Triste",
+      "Hablador",
+      "Tímido",
+      "Callado"
+    ],
+    "respuestaCorrecta": "Hablador",
+    "justificacion": "'Locuaz' describe a alguien que tiene gran facilidad y disposición para hablar mucho."
+  },
+  {
+    "id": 49,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: TENAZ",
+    "opciones": [
+      "Inconstante",
+      "Persistente",
+      "Suave",
+      "Débil"
+    ],
+    "respuestaCorrecta": "Persistente",
+    "justificacion": "'Tenaz' se mantiene firme y constante en sus propósitos."
+  },
+  {
+    "id": 50,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el sinónimo más adecuado para la palabra: APATÍA",
+    "opciones": [
+      "Fuerza",
+      "Motivación",
+      "Desinterés",
+      "Pasión"
+    ],
+    "respuestaCorrecta": "Desinterés",
+    "justificacion": "'Apatía' es la falta de emoción, motivación o interés por las cosas."
+  },
+  {
+    "id": 51,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: SOBERBIA",
+    "opciones": [
+      "Orgullo",
+      "Valentía",
+      "Furia",
+      "Humildad"
+    ],
+    "respuestaCorrecta": "Humildad",
+    "justificacion": "La soberbia es el sentimiento de superioridad; su opuesto directo es la humildad."
+  },
+  {
+    "id": 52,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: LÚGUBRE",
+    "opciones": [
+      "Malo",
+      "Oscuro",
+      "Alegre",
+      "Triste"
+    ],
+    "respuestaCorrecta": "Alegre",
+    "justificacion": "Lúgubre significa muy triste o sombrío; lo diametralmente opuesto es alegre."
+  },
+  {
+    "id": 53,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: OPULENCIA",
+    "opciones": [
+      "Lujo",
+      "Riqueza",
+      "Pobreza",
+      "Abundancia"
+    ],
+    "respuestaCorrecta": "Pobreza",
+    "justificacion": "Opulencia es mucha riqueza y abundancia; su opuesto es la pobreza."
+  },
+  {
+    "id": 54,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: ALTRUISTA",
+    "opciones": [
+      "Generoso",
+      "Amable",
+      "Bueno",
+      "Egoísta"
+    ],
+    "respuestaCorrecta": "Egoísta",
+    "justificacion": "Un altruista es quien ayuda sin esperar nada a cambio; lo opuesto es alguien egoísta."
+  },
+  {
+    "id": 55,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: GENUINO",
+    "opciones": [
+      "Real",
+      "Falso",
+      "Puro",
+      "Claro"
+    ],
+    "respuestaCorrecta": "Falso",
+    "justificacion": "Genuino significa que es auténtico y verdadero; lo opuesto es falso."
+  },
+  {
+    "id": 56,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: TRIVIAL",
+    "opciones": [
+      "Simple",
+      "Importante",
+      "Común",
+      "Básico"
+    ],
+    "respuestaCorrecta": "Importante",
+    "justificacion": "Trivial es algo común y sin importancia; lo opuesto es algo importante o crucial."
+  },
+  {
+    "id": 57,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: DILIGENTE",
+    "opciones": [
+      "Perezoso",
+      "Atento",
+      "Trabajador",
+      "Rápido"
+    ],
+    "respuestaCorrecta": "Perezoso",
+    "justificacion": "Diligente describe a alguien muy trabajador y activo; su contrario es perezoso."
+  },
+  {
+    "id": 58,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: TURBIO",
+    "opciones": [
+      "Sucio",
+      "Claro",
+      "Oscuro",
+      "Malo"
+    ],
+    "respuestaCorrecta": "Claro",
+    "justificacion": "Algo turbio está confuso, revuelto o sucio; su opuesto directo es lo claro."
+  },
+  {
+    "id": 59,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: BELICOSO",
+    "opciones": [
+      "Guerrero",
+      "Agresivo",
+      "Fuerte",
+      "Pacífico"
+    ],
+    "respuestaCorrecta": "Pacífico",
+    "justificacion": "Belicoso inclina a la guerra y al conflicto; lo opuesto es ser pacífico."
+  },
+  {
+    "id": 60,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Selecciona el antónimo correcto de la palabra: CAUTELOSO",
+    "opciones": [
+      "Lento",
+      "Imprudente",
+      "Miedoso",
+      "Cuidadoso"
+    ],
+    "respuestaCorrecta": "Imprudente",
+    "justificacion": "Alguien cauteloso actúa con máxima prevención; su opuesto es alguien imprudente."
+  },
+  {
+    "id": 61,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nPerro es a cachorro como vaca es a:",
+    "opciones": [
+      "ternero",
+      "pasto",
+      "toro",
+      "leche"
+    ],
+    "respuestaCorrecta": "ternero",
+    "justificacion": "El cachorro es la cría del perro, así como el ternero es la cría de la vaca."
+  },
+  {
+    "id": 62,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nLibro es a leer como tenedor es a:",
+    "opciones": [
+      "mesa",
+      "plato",
+      "comer",
+      "cuchillo"
+    ],
+    "respuestaCorrecta": "comer",
+    "justificacion": "El libro es el objeto y leer es su función, de la misma forma que el tenedor sirve para comer."
+  },
+  {
+    "id": 63,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nMédico es a hospital como profesor es a:",
+    "opciones": [
+      "escuela",
+      "alumno",
+      "pizarra",
+      "libro"
+    ],
+    "respuestaCorrecta": "escuela",
+    "justificacion": "Es el lugar físico de trabajo asociado directamente al profesional correspondiente."
+  },
+  {
+    "id": 64,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nAla es a pájaro como aleta es a:",
+    "opciones": [
+      "pez",
+      "escama",
+      "nadar",
+      "agua"
+    ],
+    "respuestaCorrecta": "pez",
+    "justificacion": "Es la extremidad del cuerpo utilizada específicamente para el movimiento del animal en su entorno."
+  },
+  {
+    "id": 65,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nDía es a sol como noche es a:",
+    "opciones": [
+      "luna",
+      "oscuridad",
+      "estrella",
+      "dormir"
+    ],
+    "respuestaCorrecta": "luna",
+    "justificacion": "Es el cuerpo celeste representativo que caracteriza a cada momento del día."
+  },
+  {
+    "id": 66,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nCuchillo es a cortar como balanza es a:",
+    "opciones": [
+      "medir",
+      "mercado",
+      "pesar",
+      "fruta"
+    ],
+    "respuestaCorrecta": "pesar",
+    "justificacion": "Relación directa entre la herramienta física y la acción principal que ejecuta."
+  },
+  {
+    "id": 67,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nÁrbol es a bosque como soldado es a:",
+    "opciones": [
+      "guerra",
+      "ejército",
+      "general",
+      "arma"
+    ],
+    "respuestaCorrecta": "ejército",
+    "justificacion": "Relación de parte a todo: es el elemento individual que en gran conjunto conforma el colectivo."
+  },
+  {
+    "id": 68,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nSed es a agua como hambre es a:",
+    "opciones": [
+      "sueño",
+      "pan",
+      "descanso",
+      "comida"
+    ],
+    "respuestaCorrecta": "comida",
+    "justificacion": "Es la necesidad fisiológica y el elemento exacto que la calma o satisface directamente."
+  },
+  {
+    "id": 69,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nAbeja es a miel como vaca es a:",
+    "opciones": [
+      "pasto",
+      "leche",
+      "granja",
+      "queso"
+    ],
+    "respuestaCorrecta": "leche",
+    "justificacion": "Se establece la relación del animal con el producto natural principal que este genera o produce."
+  },
+  {
+    "id": 70,
+    "categoria": "Aptitud Verbal",
+    "pregunta": "Complete la analogía:\nOjo es a ver como oído es a:",
+    "opciones": [
+      "oreja",
+      "escuchar",
+      "sonido",
+      "música"
+    ],
+    "respuestaCorrecta": "escuchar",
+    "justificacion": "Asociación natural y anatómica: es el órgano receptor y el sentido o acción principal que permite ejecutar."
+  },
+  {
+    "id": 71,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $200 y tiene un descuento especial del 30%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "175",
+      "135",
+      "145",
+      "140"
+    ],
+    "respuestaCorrecta": "140",
+    "justificacion": "El 30% de 200 se calcula multiplicando y dividiendo por 100, lo que da 60. Por lo tanto, el precio final es 200 - 60 = $140."
+  },
+  {
+    "id": 72,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $110 y tiene un descuento especial del 40%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "93",
+      "71",
+      "66",
+      "76"
+    ],
+    "respuestaCorrecta": "66",
+    "justificacion": "El 40% de 110 se calcula multiplicando y dividiendo por 100, lo que da 44. Por lo tanto, el precio final es 110 - 44 = $66."
+  },
+  {
+    "id": 73,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $130 y tiene un descuento especial del 10%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "112",
+      "129",
+      "122",
+      "117"
+    ],
+    "respuestaCorrecta": "117",
+    "justificacion": "El 10% de 130 se calcula multiplicando y dividiendo por 100, lo que da 13. Por lo tanto, el precio final es 130 - 13 = $117."
+  },
+  {
+    "id": 74,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $80 y tiene un descuento especial del 30%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "73",
+      "51",
+      "56",
+      "66"
+    ],
+    "respuestaCorrecta": "56",
+    "justificacion": "El 30% de 80 se calcula multiplicando y dividiendo por 100, lo que da 24. Por lo tanto, el precio final es 80 - 24 = $56."
+  },
+  {
+    "id": 75,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $120 y tiene un descuento especial del 30%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "107",
+      "89",
+      "84",
+      "79"
+    ],
+    "respuestaCorrecta": "84",
+    "justificacion": "El 30% de 120 se calcula multiplicando y dividiendo por 100, lo que da 36. Por lo tanto, el precio final es 120 - 36 = $84."
+  },
+  {
+    "id": 76,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $100 y tiene un descuento especial del 30%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "75",
+      "65",
+      "70",
+      "80"
+    ],
+    "respuestaCorrecta": "70",
+    "justificacion": "El 30% de 100 se calcula multiplicando y dividiendo por 100, lo que da 30. Por lo tanto, el precio final es 100 - 30 = $70."
+  },
+  {
+    "id": 77,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $60 y tiene un descuento especial del 50%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "40",
+      "25",
+      "30",
+      "50"
+    ],
+    "respuestaCorrecta": "30",
+    "justificacion": "El 50% de 60 se calcula multiplicando y dividiendo por 100, lo que da 30. Por lo tanto, el precio final es 60 - 30 = $30."
+  },
+  {
+    "id": 78,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $140 y tiene un descuento especial del 20%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "117",
+      "107",
+      "131",
+      "112"
+    ],
+    "respuestaCorrecta": "112",
+    "justificacion": "El 20% de 140 se calcula multiplicando y dividiendo por 100, lo que da 28. Por lo tanto, el precio final es 140 - 28 = $112."
+  },
+  {
+    "id": 79,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $170 y tiene un descuento especial del 10%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "167",
+      "148",
+      "153",
+      "163"
+    ],
+    "respuestaCorrecta": "153",
+    "justificacion": "El 10% de 170 se calcula multiplicando y dividiendo por 100, lo que da 17. Por lo tanto, el precio final es 170 - 17 = $153."
+  },
+  {
+    "id": 80,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Si un artículo cuesta $50 y tiene un descuento especial del 40%, ¿cuánto terminarás pagando?",
+    "opciones": [
+      "45",
+      "30",
+      "25",
+      "40"
+    ],
+    "respuestaCorrecta": "30",
+    "justificacion": "El 40% de 50 se calcula multiplicando y dividiendo por 100, lo que da 20. Por lo tanto, el precio final es 50 - 20 = $30."
+  },
+  {
+    "id": 81,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n4x + 13 = 21",
+    "opciones": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "respuestaCorrecta": "2",
+    "justificacion": "Primero, restamos 13 a ambos lados de la ecuación, obteniendo: 4x = 8. Finalmente, dividimos todo entre 4, dando como resultado x = 2."
+  },
+  {
+    "id": 82,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n2x + 13 = 37",
+    "opciones": [
+      "12",
+      "11",
+      "13",
+      "14"
+    ],
+    "respuestaCorrecta": "12",
+    "justificacion": "Primero, restamos 13 a ambos lados de la ecuación, obteniendo: 2x = 24. Finalmente, dividimos todo entre 2, dando como resultado x = 12."
+  },
+  {
+    "id": 83,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n3x + 7 = 22",
+    "opciones": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "respuestaCorrecta": "5",
+    "justificacion": "Primero, restamos 7 a ambos lados de la ecuación, obteniendo: 3x = 15. Finalmente, dividimos todo entre 3, dando como resultado x = 5."
+  },
+  {
+    "id": 84,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n3x + 10 = 34",
+    "opciones": [
+      "9",
+      "10",
+      "8",
+      "7"
+    ],
+    "respuestaCorrecta": "8",
+    "justificacion": "Primero, restamos 10 a ambos lados de la ecuación, obteniendo: 3x = 24. Finalmente, dividimos todo entre 3, dando como resultado x = 8."
+  },
+  {
+    "id": 85,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n3x + 8 = 35",
+    "opciones": [
+      "11",
+      "8",
+      "9",
+      "10"
+    ],
+    "respuestaCorrecta": "9",
+    "justificacion": "Primero, restamos 8 a ambos lados de la ecuación, obteniendo: 3x = 27. Finalmente, dividimos todo entre 3, dando como resultado x = 9."
+  },
+  {
+    "id": 86,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n2x + 8 = 18",
+    "opciones": [
+      "7",
+      "4",
+      "5",
+      "6"
+    ],
+    "respuestaCorrecta": "5",
+    "justificacion": "Primero, restamos 8 a ambos lados de la ecuación, obteniendo: 2x = 10. Finalmente, dividimos todo entre 2, dando como resultado x = 5."
+  },
+  {
+    "id": 87,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n4x + 18 = 42",
+    "opciones": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "respuestaCorrecta": "6",
+    "justificacion": "Primero, restamos 18 a ambos lados de la ecuación, obteniendo: 4x = 24. Finalmente, dividimos todo entre 4, dando como resultado x = 6."
+  },
+  {
+    "id": 88,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n3x + 20 = 38",
+    "opciones": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "respuestaCorrecta": "6",
+    "justificacion": "Primero, restamos 20 a ambos lados de la ecuación, obteniendo: 3x = 18. Finalmente, dividimos todo entre 3, dando como resultado x = 6."
+  },
+  {
+    "id": 89,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n4x + 15 = 43",
+    "opciones": [
+      "8",
+      "9",
+      "7",
+      "6"
+    ],
+    "respuestaCorrecta": "7",
+    "justificacion": "Primero, restamos 15 a ambos lados de la ecuación, obteniendo: 4x = 28. Finalmente, dividimos todo entre 4, dando como resultado x = 7."
+  },
+  {
+    "id": 90,
+    "categoria": "Razonamiento Numérico",
+    "pregunta": "Resuelve la siguiente ecuación simple para encontrar el valor de x:\n2x + 15 = 27",
+    "opciones": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "respuestaCorrecta": "6",
+    "justificacion": "Primero, restamos 15 a ambos lados de la ecuación, obteniendo: 2x = 12. Finalmente, dividimos todo entre 2, dando como resultado x = 6."
+  },
+  {
+    "id": 91,
     "categoria": "Atención y Concentración",
-    "pregunta": "¿Cuántas veces aparece la letra 'A' en la palabra 'AMAZONICA'?",
-    "opciones": ["2", "3", "4", "5"],
-    "respuestaCorrecta": "3",
-    "justificacion": "La palabra AMAZONICA contiene la letra A en las posiciones 1, 3 y 9, es decir, 3 veces."
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nCASA, CASA, CASA, CASO, CASA",
+    "opciones": [
+      "CESA",
+      "CASO",
+      "COSA",
+      "CASA"
+    ],
+    "respuestaCorrecta": "CASO",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'CASA' a excepción de 'CASO', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 92,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nLOMA, LOMA, LOMA, LIMA, LOMA",
+    "opciones": [
+      "LIMA",
+      "LOMA",
+      "LUMA",
+      "LAMA"
+    ],
+    "respuestaCorrecta": "LIMA",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'LOMA' a excepción de 'LIMA', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 93,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nPERRO, PERRO, PERRO, PORRO, PERRO",
+    "opciones": [
+      "PERRO",
+      "PORRO",
+      "PIRRO",
+      "PARRO"
+    ],
+    "respuestaCorrecta": "PORRO",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'PERRO' a excepción de 'PORRO', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 94,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nMESA, MESA, MESA, MASA, MESA",
+    "opciones": [
+      "MESA",
+      "MISA",
+      "MASA",
+      "MUSA"
+    ],
+    "respuestaCorrecta": "MASA",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'MESA' a excepción de 'MASA', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 95,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nPATO, PATO, PATO, PACO, PATO",
+    "opciones": [
+      "PACO",
+      "PATO",
+      "PASO",
+      "PALO"
+    ],
+    "respuestaCorrecta": "PACO",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'PATO' a excepción de 'PACO', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 96,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nGATO, GATO, GATO, GOTA, GATO",
+    "opciones": [
+      "GATO",
+      "GITA",
+      "GUTO",
+      "GOTA"
+    ],
+    "respuestaCorrecta": "GOTA",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'GATO' a excepción de 'GOTA', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 97,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nROSA, ROSA, ROSA, RISA, ROSA",
+    "opciones": [
+      "ROSA",
+      "RUSA",
+      "RASA",
+      "RISA"
+    ],
+    "respuestaCorrecta": "RISA",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'ROSA' a excepción de 'RISA', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 98,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nBOTA, BOTA, BOTA, VOTA, BOTA",
+    "opciones": [
+      "VOTA",
+      "BOTA",
+      "BATA",
+      "BOTO"
+    ],
+    "respuestaCorrecta": "VOTA",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'BOTA' a excepción de 'VOTA', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 99,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nTELA, TELA, TELA, TALA, TELA",
+    "opciones": [
+      "TOLA",
+      "TELA",
+      "TALA",
+      "TILA"
+    ],
+    "respuestaCorrecta": "TALA",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'TELA' a excepción de 'TALA', la cual difiere únicamente en una letra."
+  },
+  {
+    "id": 100,
+    "categoria": "Atención y Concentración",
+    "pregunta": "Identifica y encuentra la palabra diferente en la siguiente secuencia visual:\nMINA, MINA, MINA, MONA, MINA",
+    "opciones": [
+      "MINA",
+      "MONA",
+      "MANA",
+      "MENA"
+    ],
+    "respuestaCorrecta": "MONA",
+    "justificacion": "Si observas detalladamente, todas las palabras de la secuencia son 'MINA' a excepción de 'MONA', la cual difiere únicamente en una letra."
   }
 ]

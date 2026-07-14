@@ -3,12 +3,15 @@ import WelcomeScreen from './components/WelcomeScreen'
 import QuizScreen from './components/QuizScreen'
 import ResultsScreen from './components/ResultsScreen'
 import { useQuizEngine } from './hooks/useQuizEngine'
+import { shuffle } from './utils/shuffle'
 import preguntas from './data/preguntas.json'
 
 export default function App() {
   const [screen, setScreen] = useState('welcome') // 'welcome' | 'quiz' | 'results'
   const [nombre, setNombre] = useState('')
-  const quiz = useQuizEngine(preguntas)
+  // Se baraja una vez por intento: al montar la app y en cada "Volver a Intentar".
+  const [preguntasIntento, setPreguntasIntento] = useState(() => shuffle(preguntas))
+  const quiz = useQuizEngine(preguntasIntento)
 
   const handleStart = (nombreIngresado) => {
     setNombre(nombreIngresado)
@@ -25,6 +28,7 @@ export default function App() {
   }
 
   const handleRetry = () => {
+    setPreguntasIntento(shuffle(preguntas))
     quiz.reiniciar()
     setScreen('welcome')
   }
